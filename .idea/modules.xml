@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/WorkOs.iml" filepath="$PROJECT_DIR$/.idea/modules/WorkOs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WorkOs_main.iml" filepath="$PROJECT_DIR$/.idea/modules/WorkOs_main.iml" group="WorkOs" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WorkOs_test.iml" filepath="$PROJECT_DIR$/.idea/modules/WorkOs_test.iml" group="WorkOs" />
     </modules>
   </component>
 </project>
